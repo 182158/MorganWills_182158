@@ -7,6 +7,10 @@ body {
 	color: darkgrey;
 	font-family: "Helvetica";
 }
+p{
+	font-size: 14px;
+	text-align: left;
+}
 h1 {
 	text-align: center;
 	font-size: 46px;
@@ -26,20 +30,26 @@ h3 {
 h4{
 	font-size: 18px;
 }
-p{
+h5{
 	font-size: 14px;
 }
+h6{
+	font-size: 12px;
+	text-align: center;
+}
+
 
 .navbar {
-	text-align: center;
 	colour: darkgrey;
 	font-size: 15px;
 	border: 0.5px double darkgrey;
 	border-radius: 30px 20px;
-	padding: 0.3em;	
+	padding: 0.3em;
+	text-align: center;
 }
 .nav-link{
 	color: white;
+	
 }
 .col-4 {
 	text-align: center;
