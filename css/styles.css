@@ -51,19 +51,22 @@ h6{
 	color: white;
 	
 }
+.column{
+	text-align: center;
+}
 .col-4 {
 	text-align: center;
 }
 .responsive-marcela {
-  width: 28%;
-  height: 30%; 
+  width: 29%;
+  height: auto; 
 }
 .responsive-bike {
-  width: 29.5%;
-  height: 30%; 
+  width: 28%;
+  height: auto; 
 }
 .responsive-dj {
-  width: 26.5%;
+  width: 24%;
   height: auto; 
 }
 .img-lighthouse{
