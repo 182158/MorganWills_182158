@@ -54,13 +54,13 @@ h6{
 .col-4 {
 	text-align: center;
 }
-.responsive {
+.responsive-marcela {
   width: 28%;
-  height: auto; 
+  height: 30%; 
 }
 .responsive-bike {
   width: 29.5%;
-  height: auto; 
+  height: 30%; 
 }
 .responsive-dj {
   width: 26.5%;
@@ -69,7 +69,11 @@ h6{
 .img-lighthouse{
 	text-align: center
 }
-.responsive-text{
-	width:auto;
-	height: auto;
+.responsive-me{
+	width: 20%;
+  	height: 20%;
+}
+.responsive-lighthouse{
+	width: 95%;
+  height: auto; 
 }
