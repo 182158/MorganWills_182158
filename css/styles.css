@@ -29,6 +29,7 @@ h3 {
 }
 h4{
 	font-size: 18px;
+	text-align: center;
 }
 h5{
 	font-size: 14px;
@@ -53,30 +54,3 @@ h6{
 }
 .column{
 	text-align: center;
-}
-.col-4 {
-	text-align: center;
-}
-.responsive-marcela {
-  width: 29%;
-  height: auto; 
-}
-.responsive-bike {
-  width: 28%;
-  height: auto; 
-}
-.responsive-dj {
-  width: 24%;
-  height: auto; 
-}
-.img-lighthouse{
-	text-align: center
-}
-.responsive-me{
-	width: 20%;
-  	height: 20%;
-}
-.responsive-lighthouse{
-	width: 95%;
-  height: auto; 
-}
